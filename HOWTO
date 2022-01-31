@@ -1,0 +1,7 @@
+required packages
+  autogen
+  automake
+  make
+  pkgconf
+  xcb-proto (with a matching tag)
+  (some python)
